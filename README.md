@@ -24,6 +24,7 @@ pip install -e .
 1. Faster!  
 2. The built-in multi-process implementation of python is not used. I use my own multi-process implementation, which is very friendly to the compatibility of Windows and Linux. The memory occupied by each calculation subprocess is very low.  
 
+---
 1. 更快！  
 2. 不使用python内置的多进程实现。使用我自己的多进程实现，从而对windows和linux的兼容性非常友好，每个计算子进程占用的内存非常低。  
 
